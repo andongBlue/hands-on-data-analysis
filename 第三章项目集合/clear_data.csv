@@ -1,4 +1,4 @@
-,Pclass,Age,SibSp,Parch,Fare,Sex_female,Sex_male,Embarked_C,Embarked_Q,Embarked_S
+PassengerId,Pclass,Age,SibSp,Parch,Fare,Sex_female,Sex_male,Embarked_C,Embarked_Q,Embarked_S
 0,3,22.0,1,0,7.25,0,1,0,0,1
 1,1,38.0,1,0,71.2833,1,0,1,0,0
 2,3,26.0,0,0,7.925,1,0,0,0,1
